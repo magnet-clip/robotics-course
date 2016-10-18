@@ -2,7 +2,7 @@
 # run your previous code twice.
 # Please only modify the indicated area below!
 
-from math import *
+from math import pi, sin, cos, exp, sqrt
 import random
 
 landmarks  = [[20.0, 20.0], [80.0, 80.0], [20.0, 80.0], [80.0, 20.0]]
